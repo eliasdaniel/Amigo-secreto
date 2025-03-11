@@ -1,8 +1,8 @@
-#Amigo Secreto
+<h1>Amigo Secreto
 
 Este es un proyecto simple de "Amigo Secreto" que permite a los usuarios agregar nombres a una lista y luego seleccionar aleatoriamente a un amigo secreto.
 
-##Características
+<h2>Características
 
 Agregar amigos a una lista.
 
@@ -12,7 +12,7 @@ Seleccionar un amigo secreto de manera aleatoria.
 
 Limpiar la lista y reiniciar el sorteo.
 
-##Tecnologías Utilizadas
+<h2>Tecnologías Utilizadas
 
 HTML
 
@@ -20,7 +20,7 @@ CSS
 
 JavaScript
 
-##Instrucciones de Uso
+<h2>Instrucciones de Uso
 
 Escribe el nombre de un amigo en el campo de texto.
 
